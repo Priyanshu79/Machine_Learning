@@ -71,3 +71,4 @@ plt.title('Logistic Regression (Test set)')
 plt.xlabel('PC1')
 plt.ylabel('PC2')
 plt.legend()
+
