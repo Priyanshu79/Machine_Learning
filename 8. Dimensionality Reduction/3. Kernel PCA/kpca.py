@@ -72,3 +72,4 @@ plt.xlabel('Age')
 plt.ylabel('Salary')
 plt.legend()
 plt.show()
+
