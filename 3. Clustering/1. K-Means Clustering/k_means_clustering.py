@@ -1,6 +1,4 @@
-# K-Means Clustering
-#A good example of clustering
-# Importing the libraries
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
