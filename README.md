@@ -12,10 +12,10 @@ course: https://www.coursera.org/learn/machine-learning
 2) If you want to learn deep learning (preferably after you learn ML), here
 are the two most popular courses:
     i) Andrew Ng's DL course (I recommend this one):
-https://www.coursera.org/specializations/deep-learning or <
-www.deeplearning.ai>.
-    ii) The quick but possibly harder and possibly more practical courses: <
-www.fast.ai>
+https://www.coursera.org/specializations/deep-learning or
+www.deeplearning.ai.
+    ii) The quick but possibly harder and possibly more practical courses: 
+www.fast.ai
 3) If you want to learn artificial intelligence (AI) in general, here's a
 course on AI taught by the guy who literally wrote the book on AI:
 https://classroom.udacity.com/courses/cs271
