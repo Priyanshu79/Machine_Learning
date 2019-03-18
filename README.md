@@ -10,7 +10,7 @@ https://forums.fast.ai/t/recommended-python-learning-resources/26888
 
 ## Machine Learning and AI Courses
 
-**NOTE :**  Below listed resources(suggested by Yoshua Bengio) are taken from Discord Server Artificial Intelligence (invite link: https://discord.gg/9TVtVEZ) 
+**NOTE :**  Below listed resources are taken from Discord Server Artificial Intelligence (invite link: https://discord.gg/9TVtVEZ) 
 
 Here is a collection of some of my favorite FREE online courses on AI/ML:
 1) The best and the most popular ML course is Andrew Ng's (Stanford) ML
